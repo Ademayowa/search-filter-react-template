@@ -1,0 +1,19 @@
+.header__reviews {
+  display: flex;
+  font-weight: 600;
+}
+
+.border {
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.header__icons {
+  display: flex;
+  flex: 0.88;
+}
+
+.header__rightIcons svg {
+  margin: 0 5px;
+  flex: 1;
+}

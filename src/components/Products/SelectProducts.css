@@ -1,0 +1,22 @@
+.selectProducts {
+  position: relative;
+  /* border-bottom: 1px solid #eff2f5; */
+}
+
+.selectProducts__squareIcon {
+  position: absolute;
+  top: 40px;
+  color: purple !important;
+  font-size: x-large;
+}
+
+/* .selectProducts > hr {
+  margin: 15px 100px;
+  background-color: #eff2f5 !important;
+}
+
+@media (max-width: 760px) {
+  .selectProducts > hr {
+    display: none;
+  }
+} */

@@ -1,0 +1,28 @@
+.post {
+  display: flex;
+  padding: 0 15px;
+}
+
+.post__squareIcon {
+  margin-top: -4px;
+  color: purple !important;
+  font-size: x-large;
+}
+
+.post__stars {
+  color: #ffe484;
+  font-size: x-large;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.post__rightButton > .btn-light {
+  border: 1px solid gray !important;
+  margin-top: -4px;
+  background-color: white !important;
+  font-weight: 800;
+  border-radius: 4px;
+  padding: 5px 10px !important;
+}

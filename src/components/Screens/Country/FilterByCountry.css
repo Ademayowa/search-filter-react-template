@@ -1,0 +1,19 @@
+.country__title {
+  display: flex;
+}
+
+.country__title > h4 {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.country__info {
+  display: flex;
+  align-items: center;
+}
+
+.country__numbers {
+  display: flex;
+  flex: 0.85;
+  justify-content: flex-end;
+}

@@ -1,0 +1,31 @@
+.allTime {
+  display: flex;
+}
+
+.allTime__container {
+  display: flex;
+  align-items: center;
+  flex: 0.9;
+}
+
+.allTime__icon {
+  display: flex;
+  border: 1px solid #ced4da;
+  border-right: none;
+  padding: 6px;
+  border-radius: 5px;
+  font-size: x-large;
+  color: gray;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.allTime__option {
+  width: 100%;
+}
+
+.allTime__removeBorder {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-left: none;
+}

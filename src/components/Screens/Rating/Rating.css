@@ -1,0 +1,28 @@
+.rating__container {
+  display: flex;
+  flex-direction: column;
+}
+
+.rating__title {
+  display: flex;
+}
+
+.rating__title > h4 {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.rating__info {
+  display: flex;
+  align-items: center;
+}
+
+.rating__stars {
+  color: #ffe484;
+}
+
+.rating__numbers {
+  display: flex;
+  flex: 0.85;
+  justify-content: flex-end;
+}

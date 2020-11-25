@@ -1,0 +1,19 @@
+.version__title {
+  display: flex;
+}
+
+.version__title > h4 {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.version__info {
+  display: flex;
+  align-items: center;
+}
+
+.version__numbers {
+  display: flex;
+  flex: 0.85;
+  justify-content: flex-end;
+}
